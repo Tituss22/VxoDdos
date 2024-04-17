@@ -1,5 +1,5 @@
 # VxoDdos
-[![Go](https://github.com/Titus22/VxoDdos/workflows/Go/badge.svg)](https://github.com/Titus22/VxoDdos/actions?query=workflow%3A%22Go%22)
+[![Go](https://github.com/Tituss22/VxoDdos/actions/workflows/go.yml/badge.svg)](https://github.com/Tituss22/VxoDdos/actions/workflows/go.yml)
 
 VxoDdos is a powerful testing tool designed to simulate high volumes of traffic and evaluate the performance and resilience of web servers.
 
